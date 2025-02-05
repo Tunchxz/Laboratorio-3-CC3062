@@ -14,4 +14,4 @@ CC3062 - Sistemas y Tecnologías Web
 
 ## Sitio Web
 
-[CalicheOficial.lat/23139](https://github.com/Tunchxz/Laboratorio-3-CC3062](https://calicheoficial.lat/231359/Laboratorio-3/html/index.html "CalicheOficial")
+[CalicheOficial.lat/23139](https://calicheoficial.lat/231359/Laboratorio-3/html/index.html)
